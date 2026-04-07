@@ -1,1 +1,1 @@
-Download source file and run the code in colab. Takes around 2 hours to finish.
+Download the R2_DA.ipynb and run the code in colab. It takes around 2 hours to finish.
